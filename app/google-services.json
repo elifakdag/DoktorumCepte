@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679856512330",
+    "firebase_url": "https://doktorum-cepte.firebaseio.com",
+    "project_id": "doktorum-cepte",
+    "storage_bucket": "doktorum-cepte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679856512330:android:cdf0cc86da98feed",
+        "android_client_info": {
+          "package_name": "com.doktorumcepte.doktorumcepte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679856512330-dt7hc641m0s7jbpjl1at5qr75gjikmt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8UASX1ldNhqkcakoAhs5HZ6FX7dUMOP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

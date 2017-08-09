@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pressurein"
+            android:icon="@mipmap/tansiyon"
+            android:title="Tansiyon Gir" />
+        <item
+            android:id="@+id/nav_sugarin"
+            android:icon="@mipmap/seker"
+            android:title="Şeker Gir" />
+        <item
+            android:id="@+id/nav_pressureout"
+            android:icon="@mipmap/tangor"
+            android:title="Tansiyon Görüntüle" />
+        <item
+            android:id="@+id/nav_sugarout"
+            android:icon="@mipmap/sekgor"
+            android:title="Şeker Görüntüle" />
+        <item
+            android:id="@+id/nav_doctors"
+            android:icon="@mipmap/my_doctors"
+            android:title="Doktorlarım" />
+    </group>
+
+</menu>
